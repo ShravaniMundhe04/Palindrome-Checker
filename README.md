@@ -41,6 +41,3 @@ java Main
 
 ---
 
-## License
-This project is open-source and intended for educational purposes.  
-Feel free to use or modify it for learning or demonstrations.
